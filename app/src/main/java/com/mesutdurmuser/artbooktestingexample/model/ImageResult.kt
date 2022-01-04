@@ -2,6 +2,7 @@ package com.mesutdurmuser.artbooktestingexample.model
 
 import com.google.gson.annotations.SerializedName
 
+//Ana modelimiz
 data class ImageResult(
     val comments: Int,
     val downloads: Int,
@@ -19,6 +20,7 @@ data class ImageResult(
     val tags: String,
     val type: String,
     val user: String,
+    //Burada serializedname kullanamızı sebebi verileri çekeceğimiz yerdeki user id adımızın farklı olması
     @SerializedName("user_id")
     val userId : Int,
     val userImageURL: String,

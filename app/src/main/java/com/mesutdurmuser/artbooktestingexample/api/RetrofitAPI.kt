@@ -8,6 +8,7 @@ import retrofit2.http.Query
 
 interface RetrofitAPI {
 
+    //Apimize sorgularımızı atacağımız query interface'imiz
     @GET("/api/")
     suspend fun imageSearch(
         @Query("q") searchQuery: String,
