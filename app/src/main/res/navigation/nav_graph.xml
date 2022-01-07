@@ -22,6 +22,6 @@
     </fragment>
     <fragment
         android:id="@+id/apiimagefragment"
-        android:name="com.mesutdurmuser.artbooktestingexample.view.ApiImageFragment"
+        android:name="com.mesutdurmuser.artbooktestingexample.view.ImageApiFragment"
         android:label="ImageApiFragment" />
 </navigation>
