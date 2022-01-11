@@ -2,8 +2,9 @@
     <string name="app_name">AndroidTestingExample</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="enter_name">Enter Name</string>
-    <string name="enter_artist">Enter Artist</string>
-    <string name="save">Save</string>
-    <string name="search_image">Search Image</string>
+    <string name="enter_name">İsim giriniz</string>
+    <string name="enter_artist">Artist giriniz</string>
+    <string name="enter_year">Yıl giriniz</string>
+    <string name="save">Kaydet</string>
+    <string name="search_image">Fotoğraf ara</string>
 </resources>

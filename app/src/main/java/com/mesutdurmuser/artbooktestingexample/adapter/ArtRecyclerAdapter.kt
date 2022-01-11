@@ -46,9 +46,9 @@ class ArtRecyclerAdapter @Inject constructor(
         val yearText = holder.itemView.findViewById<TextView>(R.id.artRowYearText)
         val art = arts[position]
         holder.itemView.apply {
-            nameText.text = "Name: ${art.name}"
-            artistNameText.text = "Name: ${art.artistName}"
-            yearText.text = "Name: ${art.year}"
+            nameText.text = "Fotoğraf Adı: ${art.name}"
+            artistNameText.text = "Artist Adı: ${art.artistName}"
+            yearText.text = "Yapıldığı Yıl: ${art.year}"
             glide.load(art.imageUrl).into(imageView)
         }
     }

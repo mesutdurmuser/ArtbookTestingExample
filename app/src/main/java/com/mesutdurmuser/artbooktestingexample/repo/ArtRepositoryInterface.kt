@@ -5,6 +5,8 @@ import com.mesutdurmuser.artbooktestingexample.model.ImageResponse
 import com.mesutdurmuser.artbooktestingexample.roomdb.Art
 import com.mesutdurmuser.artbooktestingexample.util.Resource
 
+//Bu interface'imizi ArtRepository'e bir arayüz olması için oluşturduk. Orada aşağıdaki fonksiyonları override edip DAO muza ve retrofit işlemlerimize bağlayacağız..
+
 interface ArtRepositoryInterface {
 
     suspend fun insertArt(art: Art)

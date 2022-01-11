@@ -2,7 +2,7 @@ package com.mesutdurmuser.artbooktestingexample.model
 
 import com.google.gson.annotations.SerializedName
 
-//Ana modelimiz
+//Image Response modelimizde Hits öğesinin içinde çekeceğimiz veriler
 data class ImageResult(
     val comments: Int,
     val downloads: Int,
