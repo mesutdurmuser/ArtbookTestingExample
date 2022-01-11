@@ -22,5 +22,5 @@ Room <br>
 <p>
 teknolojilerini kullandım.  <br>
   
- Kısa zaman içerisinde projenin tamamına türkçe açıklamalar, bu kısmada görsellerini ekleyeceğim.  <br>
+ Kısa zaman içerisinde tamamına türkçe açıklamalar, bu kısmada görsellerini ekleyeceğim.  <br>
  Zaman ayırıp incelediğiniz için teşekkür ederim :)
