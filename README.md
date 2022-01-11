@@ -1,9 +1,10 @@
-# ArtbookTestingExample
-
+### ArtbookTestingExample
+<p>
 Proje test odaklı ve türkçe açıklamalar eklenerek hazırlanmıştır.
-İngilizce sıkıntısı çeken arkadaşlarıma faydalı olmasını istemem sebebiyle. 
+Pixabay.com un APİ'si kullanarak.
+İngilizce sıkıntısı çeken arkadaşlarıma faydalı olmasını istediğim için. 
 Bu sebepten görsel olarak fazla birşey eklemedim.
-
+<p>
 Projenin içerisinde;
 
 Coroutines
